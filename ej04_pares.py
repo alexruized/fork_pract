@@ -1,5 +1,5 @@
 # Escribir un programa que imprima todos los números pares entre dos números que se le pidan al usuario.
-
+# Actualizacion hecha
 # Alejandro Ruiz
 
 lim_par_1 = int(input('dime el primer limite : '))
